@@ -2,4 +2,3 @@
 #
 42f0c83244389e408b42fa668348002012ecba46                                                 	GitHub Replication
 b230ce481a1acf3ab6cebe2c587dcba89c21fc74                                                 	saml/acumos-gerrit-platform-orchestration-committers
-ldap:cn=acumos-gerrit-platform-orchestration-committers,ou=Groups,dc=freestandards,dc=org	ldap/acumos-gerrit-platform-orchestration-committers
